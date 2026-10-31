@@ -25,7 +25,7 @@ Built using the **MERN Stack (MongoDB, Express.js, React.js, and Node.js)**, Phy
 - Git & GitHub
 
 ## 🌐 Live Demo
-https://physiocare-frontend.vercel.app/
+http://localhost:5173/
 
 ## 🎯 Project Goal
 To transform traditional physiotherapy clinic services into a digital platform that makes appointment booking easier, improves accessibility, and provides a convenient experience for patients.
